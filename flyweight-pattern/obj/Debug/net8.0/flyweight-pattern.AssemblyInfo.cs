@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("flyweight-pattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c0b03d5ddf63f6d56429fc0db6b64feade9227")]
 [assembly: System.Reflection.AssemblyProductAttribute("flyweight-pattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("flyweight-pattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

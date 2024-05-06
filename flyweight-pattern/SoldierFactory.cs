@@ -11,6 +11,7 @@ namespace flyweight_pattern
         public static Soldier getSoldier(){
             if(SOLDIER == null){
                 SOLDIER = new Soldier();
+                Console.WriteLine("Soldier created");
             }
             return SOLDIER;
         }

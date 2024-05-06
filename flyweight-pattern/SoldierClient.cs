@@ -1,7 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace flyweight_pattern
 {
@@ -10,7 +7,11 @@ namespace flyweight_pattern
         private Soldier soldier = SoldierFactory.getSoldier();
         private int currentLocationX = 0;
         private int currentLocationY = 0;
-        private int newLocationX = 0;
-        private int newLocationY = 0;
+        public void moveSoldier(int newLocationX, int newLocationY){
+            soldier.moveSoldier(currentLocationX, currentLocationY, newLocationX, newLocationY);
+            currentLocationX = newLocationX;
+            currentLocationY = newLocationY;
+            Console.WriteLine("Soldier moved to X:" + currentLocationX + " Y:" + currentLocationY);
+        }
     }
 }
