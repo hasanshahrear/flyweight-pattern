@@ -1,0 +1,14 @@
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/bin/Debug/net8.0/flyweight-pattern
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/bin/Debug/net8.0/flyweight-pattern.deps.json
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/bin/Debug/net8.0/flyweight-pattern.runtimeconfig.json
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/bin/Debug/net8.0/flyweight-pattern.dll
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/bin/Debug/net8.0/flyweight-pattern.pdb
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/flyweight-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/flyweight-pattern.AssemblyInfoInputs.cache
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/flyweight-pattern.AssemblyInfo.cs
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/flyweight-pattern.csproj.CoreCompileInputs.cache
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/flyweight-pattern.dll
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/refint/flyweight-pattern.dll
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/flyweight-pattern.pdb
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/flyweight-pattern.genruntimeconfig.cache
+/home/shahrear/Documents/c-sharp/flyweight-pattern/flyweight-pattern/obj/Debug/net8.0/ref/flyweight-pattern.dll
