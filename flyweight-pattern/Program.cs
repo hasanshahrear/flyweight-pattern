@@ -9,13 +9,11 @@ namespace flyweight_pattern
       SoldierClient[] warSoldiers  = {
         new SoldierClient(),
         new SoldierClient(),
-        new SoldierClient(),
-        new SoldierClient(),
-        new SoldierClient()
       };
 
       warSoldiers[0].moveSoldier(17, 2112);
       warSoldiers[1].moveSoldier(137, 112);
+      warSoldiers[0].moveSoldier(2112, 3112);
     }
   }
 }
